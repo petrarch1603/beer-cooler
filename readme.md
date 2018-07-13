@@ -16,3 +16,11 @@ Uses a blue/white palette to simulate an old Coleman Cooler. Wood panel backgrou
 * Add column headers
 * Styling options, find complementary fonts, minor tweaks.
 
+Clipart Acknowledgements:
+Generic Beer Logo: https://openclipart.org/detail/181629/pint-of-beer-detailed-black-and-white
+(Licensed for unlimited commercial use)
+
+Wood Background:
+https://www.pexels.com/photo/close-up-of-wooden-plank-326311/
+(Licensed for unlimited commercial use)
+
